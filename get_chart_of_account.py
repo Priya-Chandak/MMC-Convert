@@ -44,7 +44,7 @@ def get_data(url):
         e = {}
         e['Account_Type'] = a['Items'][i]['Type']
         e['Name'] = a['Items'][i]['Name']
-        e['Detail_Type'] = a['Items'][i]['Name']
+        e['Detail_Type'] = a['Items'][i]['Type']
         e['Description'] = a['Items'][i]['Description']
 
         if a['Items'][i]['TaxCode'] != None:
