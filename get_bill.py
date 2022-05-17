@@ -54,6 +54,7 @@ def get_data(url):
             e['Description'] = a['Items'][i]['Lines'][j]['Description']
             e['Unit_Price'] = a['Items'][i]['Lines'][j]['UnitPrice']
             e['Tax_Code'] = a['Items'][i]['Lines'][j]['TaxCode']['Code']
+            e['Account_Name'] = a['Items'][i]['Lines'][j]['Account']['Name']
 
         arr.append(e)
 
