@@ -25,9 +25,6 @@ elif count == 3:
 else:
     limit = 10
 
-print("Number of digits: " + str(count))
-print(limit)
-
 url = "https://arl2.api.myob.com/accountright/53f60d69-ae83-4722-99a8-bdfc30d65040/Sale/Invoice/Item/?$top={}".format(
     limit)
 response = requests.request("GET", url, headers=headers, data=payload)
