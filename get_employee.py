@@ -5,7 +5,6 @@ from os import path
 from os.path import exists
 import requests
 from static import payload, headers
-import requests
 
 
 url1 = "https://arl2.api.myob.com/accountright/53f60d69-ae83-4722-99a8-bdfc30d65040/Contact/Employee"
