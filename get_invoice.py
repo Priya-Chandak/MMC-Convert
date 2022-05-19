@@ -48,6 +48,12 @@ def get_data(url):
         e['Invoice_Number'] = a['Items'][i]['Number']
         e['Date'] = a['Items'][i]['Date']
         e['Due_Date'] = a['Items'][i]['Terms']['DueDate']
+        e['Is_Tax_Inclusive'] = a['Items'][i]['IsTaxInclusive']
+
+        if a['Items'][i]['FreightTaxCode'] != None:
+            e['Tax_Code'] = a['Items'][i]['FreightTaxCode']['Code']
+        else:
+            e['Tax_Code'] = '--'
 
         for j in range(0, len(a['Items'][i]['Lines'])):
             e['Description'] = a['Items'][i]['Lines'][j]['Description']
