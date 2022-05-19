@@ -32,8 +32,8 @@ url = "https://arl2.api.myob.com/accountright/53f60d69-ae83-4722-99a8-bdfc30d650
     limit)
 response = requests.request("GET", url, headers=headers, data=payload)
 a = response.json()
-path=input("Enter a Path:")
-    
+path = input("Enter a Path:")
+
 
 def get_data(url):
     response = requests.request("GET", url, headers=headers, data=payload)
@@ -48,13 +48,17 @@ def get_data(url):
         e['Date'] = a['Items'][i]['Date']
         e['Due_Date'] = a['Items'][i]['Terms']['DueDate']
         e['Total_Amount'] = a['Items'][i]['TotalAmount']
+        e['Note'] = a['Items'][i]['JournalMemo']
 
-        for j in range(0, len(a['Items'][i]['Lines'])):
-            e['Bill_Quantity'] = a['Items'][i]['Lines'][j]['BillQuantity']
-            e['Description'] = a['Items'][i]['Lines'][j]['Description']
-            e['Unit_Price'] = a['Items'][i]['Lines'][j]['UnitPrice']
-            e['Tax_Code'] = a['Items'][i]['Lines'][j]['TaxCode']['Code']
-            e['Account_Name'] = a['Items'][i]['Lines'][j]['Account']['Name']
+        if a['Items'][i]['FreightTaxCode'] != None:
+            e['Tax_type'] = a['Items'][i]['FreightTaxCode']['Code']
+        else:
+            e['Tax_type'] = '--'
+
+        if a['Items'][i]['Category'] != None:
+            e['Category'] = a['Items'][i]['Category']['Name']
+        else:
+            e['Category'] = 'Not Available'
 
         arr.append(e)
 

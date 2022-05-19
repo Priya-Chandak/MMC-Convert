@@ -5,11 +5,9 @@
         "Date": "2020-10-15T00:00:00",
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": -966.5,
-        "Bill_Quantity": -15.0,
-        "Description": "Steel Stand",
-        "Unit_Price": 57.85,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Curbys Super Stands",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -18,11 +16,9 @@
         "Date": "2020-09-10T00:00:00",
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": -782.25,
-        "Bill_Quantity": -5.0,
-        "Description": "Glass Crock",
-        "Unit_Price": 156.45,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -31,11 +27,9 @@
         "Date": "2020-09-17T00:00:00",
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": -679.9,
-        "Bill_Quantity": -10.0,
-        "Description": "Pottery Crock",
-        "Unit_Price": 67.99,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -44,11 +38,9 @@
         "Date": "2020-09-09T00:00:00",
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": -470.53,
-        "Bill_Quantity": -10.0,
-        "Description": "12 Litres Orange Carbon",
-        "Unit_Price": 11.99,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -57,11 +49,9 @@
         "Date": "2020-11-27T00:00:00",
         "Due_Date": "2020-12-30T00:00:00",
         "Total_Amount": -350.63,
-        "Bill_Quantity": -15.0,
-        "Description": "20 Litres South Spring",
-        "Unit_Price": 14.025,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -70,11 +60,9 @@
         "Date": "2020-12-01T00:00:00",
         "Due_Date": "2021-01-30T00:00:00",
         "Total_Amount": -125.0,
-        "Bill_Quantity": -10.0,
-        "Description": "12 Litres North Spring",
-        "Unit_Price": 12.5,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "e1b16944-30da-41af-bce4-6c7228452566",
@@ -83,11 +71,9 @@
         "Date": "2020-08-15T00:00:00",
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": -100.44,
-        "Bill_Quantity": -2.0,
-        "Description": "Cooler Filter Large",
-        "Unit_Price": 50.22,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Clear & Bright Filters",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "e1b16944-30da-41af-bce4-6c7228452566",
@@ -96,11 +82,9 @@
         "Date": "2020-10-15T00:00:00",
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 129.75,
-        "Bill_Quantity": 15.0,
-        "Description": "Cooler Filter Small",
-        "Unit_Price": 8.65,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Clear & Bright Filters",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -109,11 +93,9 @@
         "Date": "2020-10-31T00:00:00",
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 151.8,
-        "Bill_Quantity": 3.0,
-        "Description": "Tea",
-        "Unit_Price": 25.75,
-        "Tax_Code": "FRE",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -122,11 +104,9 @@
         "Date": "2020-11-13T00:00:00",
         "Due_Date": "2020-12-30T00:00:00",
         "Total_Amount": 186.15,
-        "Bill_Quantity": 10.0,
-        "Description": "12 Litres Orange Carbon",
-        "Unit_Price": 11.99,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "5acccf79-92e1-44ad-b9c0-bfc19ecbf225",
@@ -135,11 +115,9 @@
         "Date": "2020-10-17T00:00:00",
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 388.0,
-        "Bill_Quantity": 5.0,
-        "Description": "Steel Stand",
-        "Unit_Price": 57.85,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Curbys Super Stands",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "e1b16944-30da-41af-bce4-6c7228452566",
@@ -148,11 +126,9 @@
         "Date": "2020-09-17T00:00:00",
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 502.2,
-        "Bill_Quantity": 10.0,
-        "Description": "Cooler Filter Large",
-        "Unit_Price": 50.22,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Clear & Bright Filters",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "5acccf79-92e1-44ad-b9c0-bfc19ecbf225",
@@ -161,11 +137,9 @@
         "Date": "2020-09-15T00:00:00",
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 988.65,
-        "Bill_Quantity": 15.0,
-        "Description": "Steel Stand",
-        "Unit_Price": 57.85,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Curbys Super Stands",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -174,11 +148,9 @@
         "Date": "2020-09-30T00:00:00",
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 1051.88,
-        "Bill_Quantity": 75.0,
-        "Description": "20 Litres South Spring",
-        "Unit_Price": 14.025,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -187,11 +159,9 @@
         "Date": "2020-08-31T00:00:00",
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 1402.5,
-        "Bill_Quantity": 100.0,
-        "Description": "20 Litres South Spring",
-        "Unit_Price": 14.025,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -200,11 +170,9 @@
         "Date": "2020-10-31T00:00:00",
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 1753.13,
-        "Bill_Quantity": 125.0,
-        "Description": "20 Litres South Spring",
-        "Unit_Price": 14.025,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -213,11 +181,9 @@
         "Date": "2021-01-09T00:00:00",
         "Due_Date": "2021-02-28T00:00:00",
         "Total_Amount": 7533.0,
-        "Bill_Quantity": 150.0,
-        "Description": "Cooler Filter Large",
-        "Unit_Price": 50.22,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -226,11 +192,9 @@
         "Date": "2021-01-09T00:00:00",
         "Due_Date": "2021-02-28T00:00:00",
         "Total_Amount": 9643.75,
-        "Bill_Quantity": 25.0,
-        "Description": "Cooler Large",
-        "Unit_Price": 385.75,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -239,11 +203,9 @@
         "Date": "2020-07-31T00:00:00",
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 70.13,
-        "Bill_Quantity": 5.0,
-        "Description": "20 Litres South Spring",
-        "Unit_Price": 14.025,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "e1b16944-30da-41af-bce4-6c7228452566",
@@ -252,11 +214,9 @@
         "Date": "2020-09-30T00:00:00",
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 81.0,
-        "Bill_Quantity": 3.0,
-        "Description": "Cooler Filter Medium",
-        "Unit_Price": 27.0,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Clear & Bright Filters",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "3821c415-93ef-41c3-b1d3-bddab2f2c355",
@@ -265,11 +225,9 @@
         "Date": "2021-10-27T00:00:00",
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 100.0,
-        "Bill_Quantity": 1.0,
-        "Description": "Cooler Large",
-        "Unit_Price": 100.0,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; ZenTest",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -278,11 +236,9 @@
         "Date": "2020-10-21T00:00:00",
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 108.33,
-        "Bill_Quantity": 3.0,
-        "Description": "20 Litres South Spring",
-        "Unit_Price": 14.025,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "5acccf79-92e1-44ad-b9c0-bfc19ecbf225",
@@ -291,11 +247,9 @@
         "Date": "2020-08-30T00:00:00",
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 209.58,
-        "Bill_Quantity": 3.0,
-        "Description": "Steel Stand",
-        "Unit_Price": 57.85,
-        "Tax_Code": "ABN",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Curbys Super Stands",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -304,11 +258,9 @@
         "Date": "2020-07-21T00:00:00",
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 2570.5,
-        "Bill_Quantity": 200.0,
-        "Description": "20 Litres North Spring",
-        "Unit_Price": 13.25,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "--",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -317,11 +269,9 @@
         "Date": "2021-01-09T00:00:00",
         "Due_Date": "2021-02-28T00:00:00",
         "Total_Amount": 352.19,
-        "Bill_Quantity": 1.0,
-        "Description": "Cooler Large",
-        "Unit_Price": 385.75,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -330,11 +280,9 @@
         "Date": "2021-02-28T00:00:00",
         "Due_Date": "2021-03-30T00:00:00",
         "Total_Amount": 352.19,
-        "Bill_Quantity": 10.0,
-        "Description": "20 Litres North Spring",
-        "Unit_Price": 13.25,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "e1b16944-30da-41af-bce4-6c7228452566",
@@ -343,11 +291,9 @@
         "Date": "2020-08-01T00:00:00",
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 489.65,
-        "Bill_Quantity": 10.0,
-        "Description": "Cooler Filter Large",
-        "Unit_Price": 50.22,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Clear & Bright Filters",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "5acccf79-92e1-44ad-b9c0-bfc19ecbf225",
@@ -356,11 +302,9 @@
         "Date": "2020-08-13T00:00:00",
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 677.25,
-        "Bill_Quantity": 10.0,
-        "Description": "Steel Stand",
-        "Unit_Price": 57.85,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Curbys Super Stands",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "5acccf79-92e1-44ad-b9c0-bfc19ecbf225",
@@ -369,11 +313,9 @@
         "Date": "2020-11-21T00:00:00",
         "Due_Date": "2020-12-30T00:00:00",
         "Total_Amount": 561.55,
-        "Bill_Quantity": 8.0,
-        "Description": "Steel Stand",
-        "Unit_Price": 57.85,
-        "Tax_Code": "ABN",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Curbys Super Stands",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "e1b16944-30da-41af-bce4-6c7228452566",
@@ -382,11 +324,9 @@
         "Date": "2020-08-27T00:00:00",
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 734.47,
-        "Bill_Quantity": 15.0,
-        "Description": "Cooler Filter Large",
-        "Unit_Price": 50.22,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Clear & Bright Filters",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -395,11 +335,9 @@
         "Date": "2020-09-19T00:00:00",
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 2977.3,
-        "Bill_Quantity": 200.0,
-        "Description": "20 Litres South Spring",
-        "Unit_Price": 15.67,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "e1b16944-30da-41af-bce4-6c7228452566",
@@ -408,11 +346,9 @@
         "Date": "2020-07-15T00:00:00",
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 854.75,
-        "Bill_Quantity": 10.0,
-        "Description": "Cooler Filter Small",
-        "Unit_Price": 8.65,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Clear & Bright Filters",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "0eacc4b5-bc44-4136-b546-bce97a2bc92b",
@@ -421,11 +357,9 @@
         "Date": "2022-05-11T00:00:00",
         "Due_Date": "2022-06-30T00:00:00",
         "Total_Amount": 1054.0,
-        "Bill_Quantity": 1.0,
-        "Description": "Abubakar Product KILO CubicM ",
-        "Unit_Price": 1000.0,
-        "Tax_Code": "GST",
-        "Account_Name": "Accounting"
+        "Note": "Purchase; priya C",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "e1b16944-30da-41af-bce4-6c7228452566",
@@ -434,11 +368,9 @@
         "Date": "2020-07-15T00:00:00",
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 1464.99,
-        "Bill_Quantity": 25.0,
-        "Description": "Tea",
-        "Unit_Price": 25.75,
-        "Tax_Code": "FRE",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Clear & Bright Filters",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "7083a74f-15ce-4015-9ce4-d3d2c83f707f",
@@ -447,11 +379,9 @@
         "Date": "2020-07-23T00:00:00",
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 4180.61,
-        "Bill_Quantity": 72.0,
-        "Description": "12 Litres Orange Carbon",
-        "Unit_Price": 11.99,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Mountain Spring",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -460,11 +390,9 @@
         "Date": "2020-11-30T00:00:00",
         "Due_Date": "2020-12-30T00:00:00",
         "Total_Amount": 1564.5,
-        "Bill_Quantity": 10.0,
-        "Description": "Glass Crock",
-        "Unit_Price": 156.45,
-        "Tax_Code": "VWH",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "3821c415-93ef-41c3-b1d3-bddab2f2c355",
@@ -473,11 +401,9 @@
         "Date": "2021-10-28T00:00:00",
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 2500.0,
-        "Bill_Quantity": 1.0,
-        "Description": "Cooler Large",
-        "Unit_Price": 2500.0,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; ZenTest",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -486,11 +412,9 @@
         "Date": "2020-08-21T00:00:00",
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 4631.81,
-        "Bill_Quantity": 25.0,
-        "Description": "Glass Crock",
-        "Unit_Price": 156.45,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "3821c415-93ef-41c3-b1d3-bddab2f2c355",
@@ -499,11 +423,9 @@
         "Date": "2021-10-27T00:00:00",
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 5000.0,
-        "Bill_Quantity": 1.0,
-        "Description": "Cooler Filter Large",
-        "Unit_Price": 5000.0,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; ZenTest",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "3821c415-93ef-41c3-b1d3-bddab2f2c355",
@@ -512,11 +434,9 @@
         "Date": "2021-10-27T00:00:00",
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 5000.0,
-        "Bill_Quantity": 1.0,
-        "Description": "Cooler Large",
-        "Unit_Price": 5000.0,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; ZenTest",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -525,11 +445,9 @@
         "Date": "2020-08-01T00:00:00",
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 7329.25,
-        "Bill_Quantity": 20.0,
-        "Description": "Cooler Large",
-        "Unit_Price": 385.75,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "233fb3a2-ee71-4ba0-a0f7-36b696f033fe",
@@ -538,11 +456,9 @@
         "Date": "2020-07-19T00:00:00",
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 7450.95,
-        "Bill_Quantity": 10.0,
-        "Description": "Cooler Small",
-        "Unit_Price": 98.35,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; Underwater Springs Pty Ltd",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     },
     {
         "Supplier": "3821c415-93ef-41c3-b1d3-bddab2f2c355",
@@ -551,10 +467,8 @@
         "Date": "2021-10-27T00:00:00",
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 100000.0,
-        "Bill_Quantity": 1.0,
-        "Description": "Coffee Powder",
-        "Unit_Price": 100000.0,
-        "Tax_Code": "GST",
-        "Account_Name": "Inventory"
+        "Note": "Purchase; ZenTest",
+        "Tax_type": "GST",
+        "Category": "Not Available"
     }
 ]
