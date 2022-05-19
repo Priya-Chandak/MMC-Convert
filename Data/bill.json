@@ -6,7 +6,8 @@
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": -966.5,
         "Note": "Purchase; Curbys Super Stands",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -17,7 +18,8 @@
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": -782.25,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -28,7 +30,8 @@
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": -679.9,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -39,7 +42,8 @@
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": -470.53,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -50,7 +54,8 @@
         "Due_Date": "2020-12-30T00:00:00",
         "Total_Amount": -350.63,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -61,7 +66,8 @@
         "Due_Date": "2021-01-30T00:00:00",
         "Total_Amount": -125.0,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -72,7 +78,8 @@
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": -100.44,
         "Note": "Purchase; Clear & Bright Filters",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -83,7 +90,8 @@
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 129.75,
         "Note": "Purchase; Clear & Bright Filters",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -94,7 +102,8 @@
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 151.8,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -105,7 +114,8 @@
         "Due_Date": "2020-12-30T00:00:00",
         "Total_Amount": 186.15,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -116,7 +126,8 @@
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 388.0,
         "Note": "Purchase; Curbys Super Stands",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -127,7 +138,8 @@
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 502.2,
         "Note": "Purchase; Clear & Bright Filters",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -138,7 +150,8 @@
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 988.65,
         "Note": "Purchase; Curbys Super Stands",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -149,7 +162,8 @@
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 1051.88,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -160,7 +174,8 @@
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 1402.5,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -171,7 +186,8 @@
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 1753.13,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -182,7 +198,8 @@
         "Due_Date": "2021-02-28T00:00:00",
         "Total_Amount": 7533.0,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -193,7 +210,8 @@
         "Due_Date": "2021-02-28T00:00:00",
         "Total_Amount": 9643.75,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -204,7 +222,8 @@
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 70.13,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -215,7 +234,8 @@
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 81.0,
         "Note": "Purchase; Clear & Bright Filters",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -226,7 +246,8 @@
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 100.0,
         "Note": "Purchase; ZenTest",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -237,7 +258,8 @@
         "Due_Date": "2020-11-30T00:00:00",
         "Total_Amount": 108.33,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -248,7 +270,8 @@
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 209.58,
         "Note": "Purchase; Curbys Super Stands",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -259,7 +282,8 @@
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 2570.5,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "--",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "--",
         "Category": "Not Available"
     },
     {
@@ -270,7 +294,8 @@
         "Due_Date": "2021-02-28T00:00:00",
         "Total_Amount": 352.19,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -281,7 +306,8 @@
         "Due_Date": "2021-03-30T00:00:00",
         "Total_Amount": 352.19,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -292,7 +318,8 @@
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 489.65,
         "Note": "Purchase; Clear & Bright Filters",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -303,7 +330,8 @@
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 677.25,
         "Note": "Purchase; Curbys Super Stands",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -314,7 +342,8 @@
         "Due_Date": "2020-12-30T00:00:00",
         "Total_Amount": 561.55,
         "Note": "Purchase; Curbys Super Stands",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -325,7 +354,8 @@
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 734.47,
         "Note": "Purchase; Clear & Bright Filters",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -336,7 +366,8 @@
         "Due_Date": "2020-10-30T00:00:00",
         "Total_Amount": 2977.3,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -347,7 +378,8 @@
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 854.75,
         "Note": "Purchase; Clear & Bright Filters",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -358,7 +390,8 @@
         "Due_Date": "2022-06-30T00:00:00",
         "Total_Amount": 1054.0,
         "Note": "Purchase; priya C",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -369,7 +402,8 @@
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 1464.99,
         "Note": "Purchase; Clear & Bright Filters",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -380,7 +414,8 @@
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 4180.61,
         "Note": "Purchase; Mountain Spring",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -391,7 +426,8 @@
         "Due_Date": "2020-12-30T00:00:00",
         "Total_Amount": 1564.5,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -402,7 +438,8 @@
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 2500.0,
         "Note": "Purchase; ZenTest",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -413,7 +450,8 @@
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 4631.81,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -424,7 +462,8 @@
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 5000.0,
         "Note": "Purchase; ZenTest",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -435,7 +474,8 @@
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 5000.0,
         "Note": "Purchase; ZenTest",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -446,7 +486,8 @@
         "Due_Date": "2020-09-30T00:00:00",
         "Total_Amount": 7329.25,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -457,7 +498,8 @@
         "Due_Date": "2020-08-30T00:00:00",
         "Total_Amount": 7450.95,
         "Note": "Purchase; Underwater Springs Pty Ltd",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     },
     {
@@ -468,7 +510,8 @@
         "Due_Date": "2021-11-30T00:00:00",
         "Total_Amount": 100000.0,
         "Note": "Purchase; ZenTest",
-        "Tax_type": "GST",
+        "Is_Tax_Inclusive": true,
+        "Tax_Code": "GST",
         "Category": "Not Available"
     }
 ]

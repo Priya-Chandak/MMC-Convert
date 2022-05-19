@@ -49,11 +49,12 @@ def get_data(url):
         e['Due_Date'] = a['Items'][i]['Terms']['DueDate']
         e['Total_Amount'] = a['Items'][i]['TotalAmount']
         e['Note'] = a['Items'][i]['JournalMemo']
+        e['Is_Tax_Inclusive'] = a['Items'][i]['IsTaxInclusive']
 
         if a['Items'][i]['FreightTaxCode'] != None:
-            e['Tax_type'] = a['Items'][i]['FreightTaxCode']['Code']
+            e['Tax_Code'] = a['Items'][i]['FreightTaxCode']['Code']
         else:
-            e['Tax_type'] = '--'
+            e['Tax_Code'] = '--'
 
         if a['Items'][i]['Category'] != None:
             e['Category'] = a['Items'][i]['Category']['Name']
