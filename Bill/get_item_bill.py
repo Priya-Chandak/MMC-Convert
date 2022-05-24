@@ -41,16 +41,11 @@ def get_data(url):
 
     arr = []
     for i in range(0, len(a['Items'])):
-        e = {}
+        e = {"Item": []}
         e['UID'] = a['Items'][i]['UID']
 
         for j in range(0,len(a['Items'][i]['Lines'])):
-            e['Unit_Price'] = a['Items'][i]['Lines'][j]['UnitPrice']
-            e['Quantity'] = a['Items'][i]['Lines'][j]['UnitCount']
-            e['Item_Name'] = a['Items'][i]['Lines'][j]['Item']['Name']
-            e['Account_Name'] = a['Items'][i]['Lines'][j]['Account']['Name']
-    
-        # e['Total_Amount'] = a['Items'][i]['Subtotal'] 
+            e["Item"].append({"Item_name": a['Items'][i]['Lines'][j]['Item']['Name'], "Account_Name": a['Items'][i]['Lines'][j]['Account']['Name'],"Unit_Price": a['Items'][i]['Lines'][j]['UnitPrice'],"Quantity":a['Items'][i]['Lines'][j]['UnitCount']})
             
         arr.append(e)
 
