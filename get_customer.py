@@ -55,6 +55,8 @@ def get_data(url):
             e.update({"First_Name": "--"})
             e.update({"Last_Name": "--"})
 
+        e['Notes'] = a['Items'][i]["Notes"]
+
         if "Addresses" in a["Items"][i]:
             if not a['Items'][i]["Addresses"]:
                 e['Addresses'] = "--"
