@@ -14,13 +14,17 @@
                 "Item_name": "Pine Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 19.75,
-                "Quantity": -5.0
+                "Quantity": -5.0,
+                "Discount": 0.0,
+                "Total": -98.75
             },
             {
                 "Item_name": "Steel Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 57.85,
-                "Quantity": -15.0
+                "Quantity": -15.0,
+                "Discount": 0.0,
+                "Total": -867.75
             }
         ]
     },
@@ -40,7 +44,9 @@
             "Item_name": "Glass Crock",
             "Account_Name": "Inventory",
             "Unit_Price": 156.45,
-            "Quantity": -5.0
+            "Quantity": -5.0,
+            "Discount": 0.0,
+            "Total": -782.25
         }]
     },
     {
@@ -59,7 +65,9 @@
             "Item_name": "Pottery Crock",
             "Account_Name": "Inventory",
             "Unit_Price": 67.99,
-            "Quantity": -10.0
+            "Quantity": -10.0,
+            "Discount": 0.0,
+            "Total": -679.9
         }]
     },
     {
@@ -78,13 +86,17 @@
                 "Item_name": "20 Litres South Spring",
                 "Account_Name": "Inventory",
                 "Unit_Price": 14.025,
-                "Quantity": -25.0
+                "Quantity": -25.0,
+                "Discount": 0.0,
+                "Total": -350.63
             },
             {
                 "Item_name": "12 Litres Orange Carbon",
                 "Account_Name": "Inventory",
                 "Unit_Price": 11.99,
-                "Quantity": -10.0
+                "Quantity": -10.0,
+                "Discount": 0.0,
+                "Total": -119.9
             }
         ]
     },
@@ -104,13 +116,17 @@
                 "Item_name": "20 Litres South Spring",
                 "Account_Name": "Inventory",
                 "Unit_Price": 14.025,
-                "Quantity": -10.0
+                "Quantity": -10.0,
+                "Discount": 0.0,
+                "Total": -140.25
             },
             {
                 "Item_name": "20 Litres South Spring",
                 "Account_Name": "Inventory",
                 "Unit_Price": 14.025,
-                "Quantity": -15.0
+                "Quantity": -15.0,
+                "Discount": 0.0,
+                "Total": -210.38
             }
         ]
     },
@@ -130,7 +146,9 @@
             "Item_name": "12 Litres North Spring",
             "Account_Name": "Inventory",
             "Unit_Price": 12.5,
-            "Quantity": -10.0
+            "Quantity": -10.0,
+            "Discount": 0.0,
+            "Total": -125.0
         }]
     },
     {
@@ -149,7 +167,9 @@
             "Item_name": "Cooler Filter Large",
             "Account_Name": "Inventory",
             "Unit_Price": 50.22,
-            "Quantity": -2.0
+            "Quantity": -2.0,
+            "Discount": 0.0,
+            "Total": -100.44
         }]
     },
     {
@@ -1452,7 +1472,9 @@
             "Item_name": "Cooler Filter Small",
             "Account_Name": "Inventory",
             "Unit_Price": 8.65,
-            "Quantity": 15.0
+            "Quantity": 15.0,
+            "Discount": 0.0,
+            "Total": 129.75
         }]
     },
     {
@@ -1862,13 +1884,17 @@
                 "Item_name": "20 Litres Orange Carbon",
                 "Account_Name": "Inventory",
                 "Unit_Price": 10.65,
-                "Quantity": 7.0
+                "Quantity": 7.0,
+                "Discount": 0.0,
+                "Total": 74.55
             },
             {
                 "Item_name": "Tea",
                 "Account_Name": "Inventory",
                 "Unit_Price": 25.75,
-                "Quantity": 3.0
+                "Quantity": 3.0,
+                "Discount": 0.0,
+                "Total": 77.25
             }
         ]
     },
@@ -1912,13 +1938,17 @@
                 "Item_name": "20 Litres North Spring",
                 "Account_Name": "Inventory",
                 "Unit_Price": 13.25,
-                "Quantity": 5.0
+                "Quantity": 5.0,
+                "Discount": 0.0,
+                "Total": 66.25
             },
             {
                 "Item_name": "12 Litres Orange Carbon",
                 "Account_Name": "Inventory",
                 "Unit_Price": 11.99,
-                "Quantity": 10.0
+                "Quantity": 10.0,
+                "Discount": 0.0,
+                "Total": 119.9
             }
         ]
     },
@@ -4022,13 +4052,17 @@
                 "Item_name": "Pine Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 19.75,
-                "Quantity": 5.0
+                "Quantity": 5.0,
+                "Discount": 0.0,
+                "Total": 98.75
             },
             {
                 "Item_name": "Steel Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 57.85,
-                "Quantity": 5.0
+                "Quantity": 5.0,
+                "Discount": 0.0,
+                "Total": 289.25
             }
         ]
     },
@@ -4089,7 +4123,9 @@
             "Item_name": "Cooler Filter Large",
             "Account_Name": "Inventory",
             "Unit_Price": 50.22,
-            "Quantity": 10.0
+            "Quantity": 10.0,
+            "Discount": 0.0,
+            "Total": 502.2
         }]
     },
     {
@@ -4413,13 +4449,17 @@
                 "Item_name": "Pine Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 19.75,
-                "Quantity": 7.0
+                "Quantity": 7.0,
+                "Discount": 0.0,
+                "Total": 138.25
             },
             {
                 "Item_name": "Steel Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 57.85,
-                "Quantity": 15.0
+                "Quantity": 15.0,
+                "Discount": 2.0,
+                "Total": 850.4
             }
         ]
     },
@@ -4439,7 +4479,9 @@
             "Item_name": "20 Litres South Spring",
             "Account_Name": "Inventory",
             "Unit_Price": 14.025,
-            "Quantity": 75.0
+            "Quantity": 75.0,
+            "Discount": 0.0,
+            "Total": 1051.88
         }]
     },
     {
@@ -4458,7 +4500,9 @@
             "Item_name": "20 Litres South Spring",
             "Account_Name": "Inventory",
             "Unit_Price": 14.025,
-            "Quantity": 100.0
+            "Quantity": 100.0,
+            "Discount": 0.0,
+            "Total": 1402.5
         }]
     },
     {
@@ -4477,7 +4521,9 @@
             "Item_name": "20 Litres South Spring",
             "Account_Name": "Inventory",
             "Unit_Price": 14.025,
-            "Quantity": 125.0
+            "Quantity": 125.0,
+            "Discount": 0.0,
+            "Total": 1753.13
         }]
     },
     {
@@ -4496,7 +4542,9 @@
             "Item_name": "Cooler Filter Large",
             "Account_Name": "Inventory",
             "Unit_Price": 50.22,
-            "Quantity": 150.0
+            "Quantity": 150.0,
+            "Discount": 0.0,
+            "Total": 7533.0
         }]
     },
     {
@@ -4515,7 +4563,9 @@
             "Item_name": "Cooler Large",
             "Account_Name": "Inventory",
             "Unit_Price": 385.75,
-            "Quantity": 25.0
+            "Quantity": 25.0,
+            "Discount": 0.0,
+            "Total": 9643.75
         }]
     },
     {
@@ -4700,7 +4750,9 @@
             "Item_name": "20 Litres South Spring",
             "Account_Name": "Inventory",
             "Unit_Price": 14.025,
-            "Quantity": 5.0
+            "Quantity": 5.0,
+            "Discount": 0.0,
+            "Total": 70.13
         }]
     },
     {
@@ -4719,7 +4771,9 @@
             "Item_name": "Cooler Filter Medium",
             "Account_Name": "Inventory",
             "Unit_Price": 27.0,
-            "Quantity": 3.0
+            "Quantity": 3.0,
+            "Discount": 0.0,
+            "Total": 81.0
         }]
     },
     {
@@ -4762,7 +4816,9 @@
             "Item_name": "Cooler Large",
             "Account_Name": "Inventory",
             "Unit_Price": 100.0,
-            "Quantity": 1.0
+            "Quantity": 1.0,
+            "Discount": 0.0,
+            "Total": 100.0
         }]
     },
     {
@@ -4781,13 +4837,17 @@
                 "Item_name": "20 Litres North Spring",
                 "Account_Name": "Inventory",
                 "Unit_Price": 13.25,
-                "Quantity": 5.0
+                "Quantity": 5.0,
+                "Discount": 0.0,
+                "Total": 66.25
             },
             {
                 "Item_name": "20 Litres South Spring",
                 "Account_Name": "Inventory",
                 "Unit_Price": 14.025,
-                "Quantity": 3.0
+                "Quantity": 3.0,
+                "Discount": 0.0,
+                "Total": 42.08
             }
         ]
     },
@@ -4873,13 +4933,17 @@
                 "Item_name": "Pine Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 19.75,
-                "Quantity": 2.0
+                "Quantity": 2.0,
+                "Discount": 0.0,
+                "Total": 38.37
             },
             {
                 "Item_name": "Steel Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 57.85,
-                "Quantity": 3.0
+                "Quantity": 3.0,
+                "Discount": 2.0,
+                "Total": 171.21
             }
         ]
     },
@@ -4899,7 +4963,9 @@
             "Item_name": "20 Litres North Spring",
             "Account_Name": "Inventory",
             "Unit_Price": 13.25,
-            "Quantity": 200.0
+            "Quantity": 200.0,
+            "Discount": 3.0,
+            "Total": 2570.5
         }]
     },
     {
@@ -4933,7 +4999,9 @@
             "Item_name": "Cooler Large",
             "Account_Name": "Inventory",
             "Unit_Price": 385.75,
-            "Quantity": 1.0
+            "Quantity": 1.0,
+            "Discount": 8.7,
+            "Total": 352.19
         }]
     },
     {
@@ -4952,7 +5020,9 @@
             "Item_name": "20 Litres North Spring",
             "Account_Name": "Inventory",
             "Unit_Price": 13.25,
-            "Quantity": 10.0
+            "Quantity": 10.0,
+            "Discount": -165.8,
+            "Total": 352.19
         }]
     },
     {
@@ -5022,7 +5092,9 @@
             "Item_name": "Cooler Filter Large",
             "Account_Name": "Inventory",
             "Unit_Price": 50.22,
-            "Quantity": 10.0
+            "Quantity": 10.0,
+            "Discount": 2.5,
+            "Total": 489.65
         }]
     },
     {
@@ -5041,13 +5113,17 @@
                 "Item_name": "Pine Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 19.75,
-                "Quantity": 5.0
+                "Quantity": 5.0,
+                "Discount": 0.0,
+                "Total": 98.75
             },
             {
                 "Item_name": "Steel Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 57.85,
-                "Quantity": 10.0
+                "Quantity": 10.0,
+                "Discount": 0.0,
+                "Total": 578.5
             }
         ]
     },
@@ -5084,13 +5160,17 @@
                 "Item_name": "Pine Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 19.75,
-                "Quantity": 5.0
+                "Quantity": 5.0,
+                "Discount": 0.0,
+                "Total": 98.08
             },
             {
                 "Item_name": "Steel Stand",
                 "Account_Name": "Inventory",
                 "Unit_Price": 57.85,
-                "Quantity": 8.0
+                "Quantity": 8.0,
+                "Discount": 0.0,
+                "Total": 463.47
             }
         ]
     },
@@ -5110,7 +5190,9 @@
             "Item_name": "Cooler Filter Large",
             "Account_Name": "Inventory",
             "Unit_Price": 50.22,
-            "Quantity": 15.0
+            "Quantity": 15.0,
+            "Discount": 2.5,
+            "Total": 734.47
         }]
     },
     {
@@ -5129,7 +5211,9 @@
             "Item_name": "20 Litres South Spring",
             "Account_Name": "Inventory",
             "Unit_Price": 15.67,
-            "Quantity": 200.0
+            "Quantity": 200.0,
+            "Discount": 5.0,
+            "Total": 2977.3
         }]
     },
     {
@@ -5148,19 +5232,25 @@
                 "Item_name": "Cooler Filter Large",
                 "Account_Name": "Inventory",
                 "Unit_Price": 45.65,
-                "Quantity": 5.0
+                "Quantity": 5.0,
+                "Discount": 0.0,
+                "Total": 228.25
             },
             {
                 "Item_name": "Cooler Filter Medium",
                 "Account_Name": "Inventory",
                 "Unit_Price": 27.0,
-                "Quantity": 20.0
+                "Quantity": 20.0,
+                "Discount": 0.0,
+                "Total": 540.0
             },
             {
                 "Item_name": "Cooler Filter Small",
                 "Account_Name": "Inventory",
                 "Unit_Price": 8.65,
-                "Quantity": 10.0
+                "Quantity": 10.0,
+                "Discount": 0.0,
+                "Total": 86.5
             }
         ]
     },
@@ -5204,13 +5294,17 @@
                 "Item_name": "Abubakar Product KILO CubicDy",
                 "Account_Name": "Accounting",
                 "Unit_Price": 54.0,
-                "Quantity": 1.0
+                "Quantity": 1.0,
+                "Discount": 0.0,
+                "Total": 54.0
             },
             {
                 "Item_name": "Abubakar Product KILO CubicM ",
                 "Account_Name": "Accounting",
                 "Unit_Price": 1000.0,
-                "Quantity": 1.0
+                "Quantity": 1.0,
+                "Discount": 0.0,
+                "Total": 1000.0
             }
         ]
     },
@@ -5230,19 +5324,25 @@
                 "Item_name": "Spring Water Beverage Maker",
                 "Account_Name": "Inventory",
                 "Unit_Price": 289.99,
-                "Quantity": 1.0
+                "Quantity": 1.0,
+                "Discount": 0.0,
+                "Total": 289.99
             },
             {
                 "Item_name": "Coffee Powder",
                 "Account_Name": "Inventory",
                 "Unit_Price": 21.25,
-                "Quantity": 25.0
+                "Quantity": 25.0,
+                "Discount": 0.0,
+                "Total": 531.25
             },
             {
                 "Item_name": "Tea",
                 "Account_Name": "Inventory",
                 "Unit_Price": 25.75,
-                "Quantity": 25.0
+                "Quantity": 25.0,
+                "Discount": 0.0,
+                "Total": 643.75
             }
         ]
     },
@@ -5262,25 +5362,33 @@
                 "Item_name": "20 Litres Clear Carbon",
                 "Account_Name": "Inventory",
                 "Unit_Price": 17.85,
-                "Quantity": 100.0
+                "Quantity": 100.0,
+                "Discount": 3.5,
+                "Total": 1722.54
             },
             {
                 "Item_name": "12 Litres North Spring",
                 "Account_Name": "Inventory",
                 "Unit_Price": 12.5,
-                "Quantity": 72.0
+                "Quantity": 72.0,
+                "Discount": 0.0,
+                "Total": 900.0
             },
             {
                 "Item_name": "12 Litres Clear Carbon",
                 "Account_Name": "Inventory",
                 "Unit_Price": 9.65,
-                "Quantity": 72.0
+                "Quantity": 72.0,
+                "Discount": 0.0,
+                "Total": 694.79
             },
             {
                 "Item_name": "12 Litres Orange Carbon",
                 "Account_Name": "Inventory",
                 "Unit_Price": 11.99,
-                "Quantity": 72.0
+                "Quantity": 72.0,
+                "Discount": 0.0,
+                "Total": 863.28
             }
         ]
     },
@@ -5300,7 +5408,9 @@
             "Item_name": "Glass Crock",
             "Account_Name": "Inventory",
             "Unit_Price": 156.45,
-            "Quantity": 10.0
+            "Quantity": 10.0,
+            "Discount": 0.0,
+            "Total": 1564.5
         }]
     },
     {
@@ -5319,7 +5429,9 @@
             "Item_name": "Cooler Large",
             "Account_Name": "Inventory",
             "Unit_Price": 2500.0,
-            "Quantity": 1.0
+            "Quantity": 1.0,
+            "Discount": 0.0,
+            "Total": 2500.0
         }]
     },
     {
@@ -5338,13 +5450,17 @@
                 "Item_name": "Pottery Crock",
                 "Account_Name": "Inventory",
                 "Unit_Price": 67.99,
-                "Quantity": 15.0
+                "Quantity": 15.0,
+                "Discount": 2.5,
+                "Total": 994.34
             },
             {
                 "Item_name": "Glass Crock",
                 "Account_Name": "Inventory",
                 "Unit_Price": 156.45,
-                "Quantity": 25.0
+                "Quantity": 25.0,
+                "Discount": 7.0,
+                "Total": 3637.47
             }
         ]
     },
@@ -5398,7 +5514,9 @@
             "Item_name": "Cooler Filter Large",
             "Account_Name": "Inventory",
             "Unit_Price": 5000.0,
-            "Quantity": 1.0
+            "Quantity": 1.0,
+            "Discount": 0.0,
+            "Total": 5000.0
         }]
     },
     {
@@ -5417,7 +5535,9 @@
             "Item_name": "Cooler Large",
             "Account_Name": "Inventory",
             "Unit_Price": 5000.0,
-            "Quantity": 1.0
+            "Quantity": 1.0,
+            "Discount": 0.0,
+            "Total": 5000.0
         }]
     },
     {
@@ -5436,7 +5556,9 @@
             "Item_name": "Cooler Large",
             "Account_Name": "Inventory",
             "Unit_Price": 385.75,
-            "Quantity": 20.0
+            "Quantity": 20.0,
+            "Discount": 5.0,
+            "Total": 7329.25
         }]
     },
     {
@@ -5455,19 +5577,25 @@
                 "Item_name": "Cooler Large",
                 "Account_Name": "Inventory",
                 "Unit_Price": 385.75,
-                "Quantity": 10.0
+                "Quantity": 10.0,
+                "Discount": 1.5,
+                "Total": 3799.64
             },
             {
                 "Item_name": "Cooler Medium",
                 "Account_Name": "Inventory",
                 "Unit_Price": 267.45,
-                "Quantity": 10.0
+                "Quantity": 10.0,
+                "Discount": 0.25,
+                "Total": 2667.81
             },
             {
                 "Item_name": "Cooler Small",
                 "Account_Name": "Inventory",
                 "Unit_Price": 98.35,
-                "Quantity": 10.0
+                "Quantity": 10.0,
+                "Discount": 0.0,
+                "Total": 983.5
             }
         ]
     },
@@ -5487,7 +5615,9 @@
             "Item_name": "Coffee Powder",
             "Account_Name": "Inventory",
             "Unit_Price": 100000.0,
-            "Quantity": 1.0
+            "Quantity": 1.0,
+            "Discount": 0.0,
+            "Total": 100000.0
         }]
     },
     {
