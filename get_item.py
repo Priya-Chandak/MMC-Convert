@@ -50,7 +50,14 @@ def get_data(url):
         e['Income_Account_ID'] = a['Items'][i]['IncomeAccount']['UID']
         e['Income_Account_Name'] = a['Items'][i]['IncomeAccount']['Name']
         e['Is_Tax_Inclusive'] = a['Items'][i]['SellingDetails']['IsTaxInclusive']
-        
+        e['Quantity_On_Hand'] = a['Items'][i]['QuantityOnHand']
+        e['LastModified'] = a['Items'][i]['LastModified']
+
+        if a['Items'][i]['QuantityOnHand'] > 0:
+            e['TrackQtyOnHand'] = True
+        else:
+            e['TrackQtyOnHand'] = False
+
         if a['Items'][i]['AssetAccount'] != None:
             e['Asset_Account_ID'] = a['Items'][i]['AssetAccount']['UID']
             e['Asset_Account_Name'] = a['Items'][i]['AssetAccount']['Name']
