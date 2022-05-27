@@ -13,7 +13,7 @@ e1=data[0:2]
 #     e1.append(e)
 
 
-url = "https://sandbox-quickbooks.api.intuit.com/v3/company/4620816365226489730/employee?minorversion=14"
+url = "https://sandbox-quickbooks.api.intuit.com/v3/company/4620816365226489730/deposit?minorversion=14"
 
 for i in range(0,len(e1)):
     e2={'Line':[]}
