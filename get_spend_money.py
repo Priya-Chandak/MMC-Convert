@@ -43,13 +43,17 @@ def get_data(url):
     for i in range(0, len(a['Items'])):
         e = {}
 
-        e['Pay_From'] = a['Items'][i]["Account"]['Name']
+        e['Pay_From'] = a['Items'][i]['UID']
+        e['Pay_From'] = a['Items'][i]['PayFrom']
+        
 
         if a['Items'][i]["Contact"] != None:
+            e['Pay_to_ID'] = a['Items'][i]["Contact"]['UID']
             e['Pay_To'] = a['Items'][i]["Contact"]['Name']
         else:
+            e['Pay_to_ID'] = '--'
             e['Pay_To'] = '--'
-
+        
         e['Date'] = a['Items'][i]['Date']
         e['Description'] = a['Items'][i]['Memo']
         e['Is_Tax_Inclusive'] = a['Items'][i]['IsTaxInclusive']
@@ -59,7 +63,9 @@ def get_data(url):
 
         for j in range(0, len(a['Items'][i]['Lines'])):
             e['TaxCode_UID'] = a['Items'][i]['Lines'][j]['TaxCode']['UID']
-
+            e['Account_Name'] = a['Items'][i]['Lines'][j]['Account']['Name']
+            e['Account_UID'] = a['Items'][i]['Lines'][j]['Account']['UID']
+            
         arr.append(e)
 
         filename = "{}/spend_money.json".format(path)
