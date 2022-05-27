@@ -1,10 +1,12 @@
-[{
+[
+    {
         "Deposit_Into": "FCF GENERAL #1835",
         "Notes": "Monthly Interest",
         "Date": "2020-08-30T00:00:00",
         "Reference_No": "IE300801",
         "TotalTax": 0.0,
         "Is_Tax_Inclusive": true,
+        "PaymentMethod": null,
         "Payer": "Interest Income",
         "Tax_Code": "N-T",
         "Amount": 12.45
@@ -16,6 +18,7 @@
         "Reference_No": "IE300701",
         "TotalTax": 0.0,
         "Is_Tax_Inclusive": true,
+        "PaymentMethod": null,
         "Payer": "Interest Income",
         "Tax_Code": "N-T",
         "Amount": 14.35
@@ -27,6 +30,7 @@
         "Reference_No": "CR000042",
         "TotalTax": 0.0,
         "Is_Tax_Inclusive": false,
+        "PaymentMethod": null,
         "Amount": 199.53
     },
     {
@@ -36,6 +40,7 @@
         "Reference_No": "CR000041",
         "TotalTax": 18.14,
         "Is_Tax_Inclusive": true,
+        "PaymentMethod": null,
         "Payer": "Accommodation",
         "Tax_Code": "GST",
         "Amount": 199.53
@@ -47,6 +52,7 @@
         "Reference_No": "CR000018",
         "TotalTax": 454.55,
         "Is_Tax_Inclusive": true,
+        "PaymentMethod": "Cheque",
         "Payer": "Fundraising Events",
         "Tax_Code": "GST",
         "Amount": 5000.0
@@ -58,6 +64,7 @@
         "Reference_No": "CASHSALE",
         "TotalTax": 909.09,
         "Is_Tax_Inclusive": true,
+        "PaymentMethod": "Cash",
         "Payer": "Membership Fees",
         "Tax_Code": "GST",
         "Amount": 10000.0
@@ -69,6 +76,7 @@
         "Reference_No": "CR000016",
         "TotalTax": 1181.82,
         "Is_Tax_Inclusive": true,
+        "PaymentMethod": "Cheque",
         "Payer": "Red Ball",
         "Tax_Code": "GST",
         "Amount": 13000.0

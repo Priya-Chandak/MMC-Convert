@@ -13,27 +13,29 @@ for i in range(0,len(data)):
     e1.append(e)
 
 
-url = "https://sandbox-quickbooks.api.intuit.com/v3/company/4620816365226489730/employee?minorversion=14"
+url = "https://sandbox-quickbooks.api.intuit.com/v3/company/4620816365226489730/purchase?minorversion=14"
 
-for i in range(0, len(e1)):
-    e2 = {}
-    e3 = {}
-    e4 = {}
-    e2['SSN'] = e1[i]['Employee_ID_Number']
-    e2['GivenName'] = e1[i]['FirstName']
-    e2['FamilyName'] = e1[i]['LastName']
-    e3['Id'] = '1'
-    e3['Line1'] = e1[i]['Addresses'][0]['Street']
-    e3['City'] = e1[i]['Addresses'][0]['City']
-    e3['CountrySubDivisionCode'] = e1[i]['Addresses'][0]['State']
-    e3['PostalCode'] = e1[i]['Addresses'][0]['PostCode']
-    e4['FreeFormNumber'] = e1[i]['Addresses'][0]['Phone1']
-    e2['PrimaryAddr'] = e3
-    e2['PrimaryPhone'] = e4
-
+for i in range(0,len(e1)):
+    e2={}
+    e3={'Line':[]}
+    e4={}
+    e5={}
+    e6={}
+    
+    e4['Amount']=e1[i]['Payer']
+    e4['DetailType']='AccountBasedExpenseLineDetail'
+    
+    e5['name']=e1[i]['Payer']
+    
+   
+    e7['PaymentType']=e1[i]['PaymentMethod']
+    
+    
+    e8['name']=e1[i]['Deposit_Into']
+    e8['Line'].append(e6)
+    
     payload = json.dumps(e2)
     response = requests.request("POST", url, headers=headers, data=payload)
     
     print(response.text)
     print(response)
-    

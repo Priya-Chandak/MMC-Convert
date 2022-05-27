@@ -48,6 +48,8 @@ def get_data(url):
         e['Reference_No'] = a['Items'][i]['ReceiptNumber']
         e['TotalTax'] = a['Items'][i]['TotalTax']
         e['Is_Tax_Inclusive'] = a['Items'][i]['IsTaxInclusive']
+        e['PaymentMethod'] = a['Items'][i]['PaymentMethod']
+        
 
         for j in range(0, len(a['Items'][i]['Lines'])):
             e['Payer'] = a['Items'][i]['Lines'][j]['Account']['Name']
