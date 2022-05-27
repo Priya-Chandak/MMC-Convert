@@ -53,6 +53,7 @@ def get_data(url):
 
         e['ABN'] = a['Items'][i]["BuyingDetails"]['ABN']
         e['BSB'] = a['Items'][i]["PaymentDetails"]['BSBNumber']
+        e['TaxIdNumber'] = a['Items'][i]["BuyingDetails"]['TaxIdNumber']
         e['Bank_Acc_no'] = a['Items'][i]["PaymentDetails"]['BankAccountNumber']
         e['Bank_Acc_Name'] = a['Items'][i]["PaymentDetails"]['BankAccountName']
         e['Statement_Text'] = a['Items'][i]["PaymentDetails"]['StatementText']
@@ -66,6 +67,7 @@ def get_data(url):
             for j in range(0, len(a['Items'][i]['Addresses'])):
                 e['city'] = a['Items'][i]["Addresses"][j]['City']
                 e['Country'] = a['Items'][i]["Addresses"][j]['Country']
+                e['Street'] = a['Items'][i]["Addresses"][j]['Street']
                 e['State'] = a['Items'][i]["Addresses"][j]['State']
                 e['PostCode'] = a['Items'][i]["Addresses"][j]['PostCode']
                 e['Email'] = a['Items'][i]["Addresses"][j]['Email']
