@@ -7,7 +7,7 @@ path = input("path :")
 with open('{}/customer.json'.format(path), 'r') as f:
     data = json.load(f)
 
-e1=[]
+e1=data[1:5]
 for i in range(0,len(data)):
     e=data[i]
     e1.append(e)
